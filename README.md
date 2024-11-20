@@ -1,3 +1,7 @@
+@settings { 
+  font-size: 100;
+}
+
 ReadMe
 
 OBL for Pheromone and Heuristic Updates (RL) in ACO
