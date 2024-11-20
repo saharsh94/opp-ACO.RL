@@ -1,4 +1,5 @@
-README - OBL for Pheromone and Heuristic Updates (RL) in ACO
+README
+OBL for Pheromone and Heuristic Updates (RL) in ACO
 
 This repository contains the implementation of an innovative approach leveraging Opposition-Based Learning (OBL) to enhance the pheromone and heuristic updates Reinforcement Learning (RL) within an Ant Colony Optimization framework. The code, written in Python (ipynb), applies the algorithm to a provided dataset, which is included in the dataset directory. Please note that the associated paper detailing this methodology is currently under review and has not yet been published. Feedback and collaboration are welcome as the research progresses.
 *****************************************************************************************
