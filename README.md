@@ -1,4 +1,4 @@
-<h6>README
+##[README]
 
 OBL for Pheromone and Heuristic Updates (RL) in ACO
 
